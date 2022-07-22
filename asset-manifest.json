@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Anisubhra.github.io/mobile-store/static/css/main.3e9a49f7.css",
-    "main.js": "/Anisubhra.github.io/mobile-store/static/js/main.a0cf512a.js",
-    "static/js/612.33df0538.chunk.js": "/Anisubhra.github.io/mobile-store/static/js/612.33df0538.chunk.js",
-    "index.html": "/Anisubhra.github.io/mobile-store/index.html",
-    "main.3e9a49f7.css.map": "/Anisubhra.github.io/mobile-store/static/css/main.3e9a49f7.css.map",
-    "main.a0cf512a.js.map": "/Anisubhra.github.io/mobile-store/static/js/main.a0cf512a.js.map",
-    "612.33df0538.chunk.js.map": "/Anisubhra.github.io/mobile-store/static/js/612.33df0538.chunk.js.map"
+    "main.css": "/mobile-store/static/css/main.3e9a49f7.css",
+    "main.js": "/mobile-store/static/js/main.cccc5608.js",
+    "static/js/612.33df0538.chunk.js": "/mobile-store/static/js/612.33df0538.chunk.js",
+    "index.html": "/mobile-store/index.html",
+    "main.3e9a49f7.css.map": "/mobile-store/static/css/main.3e9a49f7.css.map",
+    "main.cccc5608.js.map": "/mobile-store/static/js/main.cccc5608.js.map",
+    "612.33df0538.chunk.js.map": "/mobile-store/static/js/612.33df0538.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e9a49f7.css",
-    "static/js/main.a0cf512a.js"
+    "static/js/main.cccc5608.js"
   ]
 }
