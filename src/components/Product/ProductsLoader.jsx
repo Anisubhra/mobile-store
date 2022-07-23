@@ -7,7 +7,7 @@ const ProductsLoader = () => {
         return (
             <div className="lg:w-1/4 md:w-1/2 p-4 w-full">
                 <a className="block relative h-48 rounded overflow-hidden animate-pulse">
-                    <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="/420x260_cleanup.png" />
+                    <img alt="ecommerce" className="object-cover object-center w-full h-full block" src="./420x260_cleanup.png" />
                 </a>
                 <div className="mt-4">
                     <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1 bg-gray-100 p-2 w-20 animate-pulse"></h3>

@@ -11,7 +11,10 @@ const Hero = () => {
                     <p className="mb-8 leading-relaxed">You can choose a payment option that works for you, <br className="hidden lg:inline-block" />pay less with a trade‑in, connect your new Smartphone to your carrier and get set up quickly. <br className="hidden lg:inline-block" />You can also chat with a Specialist anytime..</p>
                     <div className="flex justify-center">
                         <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded-full text-lg">Buy</button>
-                        <button className="ml-2 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded-full text-lg items-center bg-gradient-to-r from-rose-500 to-violet-500 bg-clip-text text-transparent">Learn more
+                        <button className="ml-2 inline-flex text-gray-700 border-0 py-2 px-6 focus:outline-none rounded-full text-lg items-center ">
+                            <span className='bg-gradient-to-r from-rose-500 to-violet-500 bg-clip-text text-transparent'>
+                                Learn more
+                            </span>
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mt-1 text-violet-500" viewBox="0 0 20 20" fill="currentColor">
                                 <path fillRule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clipRule="evenodd" />
                             </svg>
